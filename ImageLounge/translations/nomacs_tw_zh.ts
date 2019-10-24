@@ -4618,7 +4618,7 @@ Do you want to show them again?</source>
         <location filename="../src/DkCore/DkUtils.cpp" line="368"/>
         <source>English</source>
         <extracomment>this should be the name of the language in which nomacs is translated to</extracomment>
-        <translation>簡體中文</translation>
+        <translation>正體中文</translation>
     </message>
 </context>
 <context>
@@ -6055,7 +6055,7 @@ then press %1</source>
     <message>
         <location filename="../src/DkGui/DkManipulatorWidgets.cpp" line="344"/>
         <source>Angle</source>
-        <translation>Angle</translation>
+        <translation>角度</translation>
     </message>
 </context>
 <context>
